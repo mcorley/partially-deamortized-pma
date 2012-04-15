@@ -3,7 +3,7 @@
 SHELL = /bin/sh
 
 CXX = g++
-CXXPFLAGS = -g -O
+CXXFLAGS = -g -O
 LIBS = 
 
 demo: pma_test.o pma.o
